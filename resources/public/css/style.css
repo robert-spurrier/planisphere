@@ -1,0 +1,32 @@
+.center {
+  align-self: center;
+
+  margin: 0.0em 0.0em 0.0em 1.0em;
+}
+
+div.code {
+    background-color: #eeeeee;
+
+}
+
+div.segment {
+    padding: 0.5em;
+    margin: 0.2em 0.2em 0.2em 0.2em;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+}
+
+div.code .segment-main {
+    width: auto;
+}
+
+div.output {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  background-color: white;
+  border-width: 1px;
+  border-color: #cccccc;
+  word-wrap: break-word;
+}

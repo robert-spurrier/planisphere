@@ -1,0 +1,7 @@
+{:log-level :info
+ :host "localhost"
+ :port 10666
+ :headless? false
+ :vega-schema "vega-schema.json"
+ :vega-lite-schema "vega-lite-schema.json"
+ :ascii "ascii.txt"}
