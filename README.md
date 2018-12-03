@@ -38,7 +38,7 @@ Planisphere is a fork/continuation of <https://github.com/yieldbot/vizard>. It k
 <a href="#prerequisites" id="prerequisites"></a>Prerequisites
 -------------------------------------------------------------
 
--   Java 8 with JavaFX
+-   Oracle Java 8 with JavaFX
 
 Usage
 ------
